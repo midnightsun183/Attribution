@@ -20,7 +20,6 @@ from tkinter import Tk, PhotoImage
 
 # from PIL import Image, ImageTk
 
-
 class App:
     def __init__(self, root):
 
